@@ -1,0 +1,30 @@
+.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.important {
+  color: red;
+}
+
+.emphasize {
+  font-weight: bold;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.redtext {
+  color: red;
+}
+
+#line2 {
+  color: red;
+}
